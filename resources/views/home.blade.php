@@ -96,7 +96,7 @@
                 repellendus natus nihil?
               </p>
               <div class="food-image">
-                <img src="/img/dinner-overlay.png">
+                <img src="/img/dinner_overlay.png">
               </div>
             </div>
 
